@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a small programmer eager to learn, I like to read syntax and research about programming, technology and scripting, I hope you like my projects, a pleasure to meet you.
+I'm Ars, a programmer who is in the process of improving their programming logic skills.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Arscharm) 
