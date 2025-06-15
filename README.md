@@ -6,4 +6,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Ars-byte&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ars-byte&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![dev](https://github.com/user-attachments/assets/e6887091-eb10-4ec1-a93f-6e8e52add8f4)
+
