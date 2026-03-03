@@ -2,7 +2,7 @@
 
 I'm Ars, one programmer. 
 
-![cowboy bebop smoking GIF](https://github.com/user-attachments/assets/b4a97419-0aab-4443-99fa-e48f75028ba8)
+![love-you](https://github.com/user-attachments/assets/7e6bc9ef-38cb-4c1b-b62e-3e007b381a0d)
 
 
 ## My skills: 
