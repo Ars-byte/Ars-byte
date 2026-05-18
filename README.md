@@ -7,7 +7,7 @@
       <code>>_ Low software dev</code>
       <br><br>
       🇭🇷 Made in Croatia<br>
-      📍 I use NixOS btw DAMN!<br>
+      📍 System: LMDE <br>
       📅 14 years old<br>
       🕰️ 2 years of experience<br>
       ❌ Windows 11 hater
