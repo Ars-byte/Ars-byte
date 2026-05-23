@@ -7,14 +7,14 @@
       <code>>_ Low software dev</code>
       <br><br>
       🇭🇷 Made in Croatia<br>
-      📍 System: LMDE <br>
+      📍 System: Devuan <br>
       📅 14 years old<br>
-      🕰️ 2 years of experience<br>
+      🕰️ Junior Developer<br>
       ❌ Windows 11 hater
       <br><br>
       <b>Languages & Tools:</b><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,css,python,c,cpp,bash,linux,windows,debian&perline=5" />
+        <img src="https://skillicons.dev/icons?i=python,cpp,debian,html,css,js,ruby&perline=5" />
       </a>
     </td>
   </tr>
