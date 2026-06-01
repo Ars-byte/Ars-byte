@@ -14,7 +14,7 @@
       <br><br>
       <b>Languages & Tools:</b><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,cpp,debian,html,css,js,ruby&perline=5" />
+        <img src="https://skillicons.dev/icons?i=python,cpp,debian,html,css,js,ruby,c&perline=5" />
       </a>
     </td>
   </tr>
