@@ -6,7 +6,7 @@
     <td valign="top">
       <code>>_ Low software dev</code>
       <br><br>
-      🇭🇷 Made in Argentina<br>
+      🇦🇷 Made in Argentina<br>
       📍 System: Devuan <br>
       📅 14 years old<br>
       🕰️ Junior Developer<br>
