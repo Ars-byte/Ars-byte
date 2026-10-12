@@ -12,7 +12,7 @@
     </tr>
     <tr>
       <td align="center">
-        <p>I am 14 years old from Argentina, and I have been programming for 2 years. I use Void Linux with the Niri scrollable window manager. I have learned various programming languages, but I specialize in C++ and Python. I hope you like my projects! :))</p>
+        <p>I am 15 years old from Argentina, and I have been programming for 2 years. I use Void Linux with wayfire. I have learned various programming languages, but I specialize in C++ and Python. I hope you like my projects! :))</p>
       </td>
     </tr>
     <tr>
