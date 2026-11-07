@@ -4,7 +4,7 @@
 
 <img width="480" height="270" alt="giphy" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHR2ZTY5ejQwZDFldnJpbjl3ZXRzaGZvMm4xcjVlaW54eHpqc3ptYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGP4QOa1n8rcE1yHGQ/giphy.gif" />
 
-I am 15 years old from Argentina, and I have been programming for 2 years. I use Void Linux with wayfire. I have learned various programming languages, but I specialize in Go and Python. I hope you like my projects! :))
+Hi! I’m Ars-byte. I’m 15 years old, from Argentina, and I’ve been programming for 2 years. I use Void Linux with i3wm. I’ve learned several programming languages, but I specialize in Go and Python. I hope you like my projects! :))
 
 ## Skills
 
