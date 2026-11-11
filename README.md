@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hello everyone, I'm Ars :D
+# Hello everyone, I'm Ars-byte
 
-<img width="480" height="270" alt="giphy" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHR2ZTY5ejQwZDFldnJpbjl3ZXRzaGZvMm4xcjVlaW54eHpqc3ptYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGP4QOa1n8rcE1yHGQ/giphy.gif" />
+<img width="480" height="270" alt="cyberpunk-edgerunners" src="https://media1.tenor.com/m/d4hu88fYISQAAAAC/cyberpunk-edgerunners-2-d-cyberpunk-edgerunners-2.gif" />
+
+<br><br>
 
 Hi! I’m Ars-byte. I’m 15 years old, from Argentina, and I’ve been programming for 2 years. I use Void Linux with i3wm. I’ve learned several programming languages, but I specialize in Go and Python. I hope you like my projects! :))
 
@@ -15,4 +17,5 @@ Hi! I’m Ars-byte. I’m 15 years old, from Argentina, and I’ve been programm
   <img src="https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white" alt="Nix" />
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script" />
 </p>
+
 </div>
